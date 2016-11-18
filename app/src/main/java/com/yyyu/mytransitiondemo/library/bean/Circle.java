@@ -1,4 +1,4 @@
-package com.yyyu.mytransitiondemo.library.view;
+package com.yyyu.mytransitiondemo.library.bean;
 
 import android.animation.ValueAnimator;
 import android.view.animation.AccelerateDecelerateInterpolator;
